@@ -1,0 +1,18 @@
+[[gmmlib]]
+arch = "i686"
+git-tree-sha1 = "4783025aef2df64ced27a176820c5b064b53fb34"
+libc = "glibc"
+os = "linux"
+
+    [[gmmlib.download]]
+    sha256 = "2eaa92ba75fe40270d7c0716ff2f85a2c6dce162fe62c955ce493ccbaba184fb"
+    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v20.1.1+0/gmmlib.v20.1.1.i686-linux-gnu.tar.gz"
+[[gmmlib]]
+arch = "x86_64"
+git-tree-sha1 = "cdcee4d3ed8ef13b50e60d10feab2c746da27d3f"
+libc = "glibc"
+os = "linux"
+
+    [[gmmlib.download]]
+    sha256 = "8d71c6033bedeb531bc67eddfed7b7bc5e34c00a4833e70c2bf415031b71969c"
+    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v20.1.1+0/gmmlib.v20.1.1.x86_64-linux-gnu.tar.gz"
