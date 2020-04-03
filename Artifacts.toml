@@ -1,18 +1,18 @@
 [[gmmlib]]
 arch = "i686"
-git-tree-sha1 = "4304a9dde5e1535f6aaa480c4ce47ec4bd7dc80f"
+git-tree-sha1 = "233801781c402d7695071e2e2f743a976ed497a1"
 libc = "glibc"
 os = "linux"
 
     [[gmmlib.download]]
-    sha256 = "fe07affe918ee1401b2a1c136ef8b7aace3d286fe35384a5c0f4a0c6e7dc2a7b"
-    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v19.4.1+0/gmmlib.v19.4.1.i686-linux-gnu.tar.gz"
+    sha256 = "aad68715d572a68ce9b0b24bee2639017fc3b199efdddae8318362a3502a2d66"
+    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v20.1.1+1/gmmlib.v20.1.1.i686-linux-gnu.tar.gz"
 [[gmmlib]]
 arch = "x86_64"
-git-tree-sha1 = "fe37248dea9fe055a4eae6b12816af2b1ef7de99"
+git-tree-sha1 = "8fa20efa2052d9937ba6835553d17c3a6c703e8e"
 libc = "glibc"
 os = "linux"
 
     [[gmmlib.download]]
-    sha256 = "4dc9d82a24cc53ffe80a066a673463976df8a6f287e1ee830b1a1de72e8c9f4f"
-    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v19.4.1+0/gmmlib.v19.4.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "a7c182b87443fec906ee49f40267bae6708e44650c48fcb439e6f50485192b51"
+    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v20.1.1+1/gmmlib.v20.1.1.x86_64-linux-gnu.tar.gz"
