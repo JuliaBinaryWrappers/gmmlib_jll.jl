@@ -1,36 +1,36 @@
 [[gmmlib]]
 arch = "i686"
-git-tree-sha1 = "12ec107e76d72e4ba608be8bbe12fa0b0f098fc9"
+git-tree-sha1 = "b520b9af33dbf33b1fed4896d31dd6a5dc86a231"
 libc = "glibc"
 os = "linux"
 
     [[gmmlib.download]]
-    sha256 = "fd189c34d7f3b87942752603841a8ee2d074c55cd2886884e799537fcfeb0017"
-    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v20.2.3+0/gmmlib.v20.2.3.i686-linux-gnu.tar.gz"
+    sha256 = "979ec4cc79353c019843d48829f1bdc741555990d99cce3e839a744797f9e5ee"
+    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v20.2.4+0/gmmlib.v20.2.4.i686-linux-gnu.tar.gz"
 [[gmmlib]]
 arch = "i686"
-git-tree-sha1 = "4990ced1997f6bb0039e283fecdfd97c10d19072"
+git-tree-sha1 = "a762799991314949f85590e4c31eb9a2c4c73896"
 libc = "musl"
 os = "linux"
 
     [[gmmlib.download]]
-    sha256 = "aec02147636e7f58a96b6e8bf00956dfba7dd921e29585e056e2b9bc8d3e568b"
-    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v20.2.3+0/gmmlib.v20.2.3.i686-linux-musl.tar.gz"
+    sha256 = "aa2c26ebbb0dd0a99d8ce90c4f37dc472810450b2b4d01de8fa69b37dcea4035"
+    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v20.2.4+0/gmmlib.v20.2.4.i686-linux-musl.tar.gz"
 [[gmmlib]]
 arch = "x86_64"
-git-tree-sha1 = "70d70bc71c0817e05a4d347128cef822cd02d323"
+git-tree-sha1 = "8a14bac92eca3b88117b0c12b1f4f9ff23df72ff"
 libc = "glibc"
 os = "linux"
 
     [[gmmlib.download]]
-    sha256 = "137525001820acf0caa72b098a3cd6769c4c34f8b4f65ff46aa8bf78e5100bf0"
-    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v20.2.3+0/gmmlib.v20.2.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "fe2c99758693b69c5c122f14ebd331559851b19649406af6961d7aa296e14262"
+    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v20.2.4+0/gmmlib.v20.2.4.x86_64-linux-gnu.tar.gz"
 [[gmmlib]]
 arch = "x86_64"
-git-tree-sha1 = "31d83236b31af44b1ce7d0f488efea7b9390028f"
+git-tree-sha1 = "d49063d26aee49740afde0233641f47feb92bac5"
 libc = "musl"
 os = "linux"
 
     [[gmmlib.download]]
-    sha256 = "19e5aa77364adbfdbdafd995825c8e002c075307ef59e692068a336f5356ea5f"
-    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v20.2.3+0/gmmlib.v20.2.3.x86_64-linux-musl.tar.gz"
+    sha256 = "589f63a43c62ab50660f2fdec22461707a6e321b05a67b83ff620d5d8e7b3faa"
+    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v20.2.4+0/gmmlib.v20.2.4.x86_64-linux-musl.tar.gz"
