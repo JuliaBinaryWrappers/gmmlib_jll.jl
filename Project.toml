@@ -1,6 +1,6 @@
 name = "gmmlib_jll"
 uuid = "09858cae-167c-5acb-9302-fddc6874d481"
-version = "20.2.5+0"
+version = "20.3.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
