@@ -2,7 +2,7 @@
 export libigdgmm
 
 JLLWrappers.@generate_wrapper_header("gmmlib")
-JLLWrappers.@declare_library_product(libigdgmm, "libigdgmm.so.11")
+JLLWrappers.@declare_library_product(libigdgmm, "libigdgmm.so.12")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
