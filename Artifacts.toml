@@ -6,7 +6,7 @@ os = "linux"
 
     [[gmmlib.download]]
     sha256 = "0c8279f1eb76652186e71e5faaeffcf768eec99c9107fe8dc6e0f7504613123b"
-    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v22.7.2+0/gmmlib.v22.7.2.i686-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v22.7.2+1/gmmlib.v22.7.2.i686-linux-gnu.tar.gz"
 [[gmmlib]]
 arch = "i686"
 git-tree-sha1 = "3055df95cfa7bcd890a34e8485e0c8efc1abf3ab"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[gmmlib.download]]
     sha256 = "c71e5f5256070ed0aca2eea1185b67579f1b51115db6c514f6e812ba2d56ec57"
-    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v22.7.2+0/gmmlib.v22.7.2.i686-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v22.7.2+1/gmmlib.v22.7.2.i686-linux-musl.tar.gz"
 [[gmmlib]]
 arch = "x86_64"
 git-tree-sha1 = "61c0d75a321cc85259339586826d6a8040de172a"
@@ -24,7 +24,7 @@ os = "linux"
 
     [[gmmlib.download]]
     sha256 = "a9d83c49e02a267f7d58ddb24d05b24213f0d3709e59e3c9029a90f1a527b278"
-    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v22.7.2+0/gmmlib.v22.7.2.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v22.7.2+1/gmmlib.v22.7.2.x86_64-linux-gnu.tar.gz"
 [[gmmlib]]
 arch = "x86_64"
 git-tree-sha1 = "0092c8d92a3546249ed0480157865317dcd4ef44"
@@ -33,4 +33,4 @@ os = "linux"
 
     [[gmmlib.download]]
     sha256 = "d42de93265a2838b2984a54ddff8b85c3d5d40870078984beb66763e1d5e9f57"
-    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v22.7.2+0/gmmlib.v22.7.2.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/gmmlib_jll.jl/releases/download/gmmlib-v22.7.2+1/gmmlib.v22.7.2.x86_64-linux-musl.tar.gz"
